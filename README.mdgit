@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "# Quivr-Minz"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Shafiq-GH/Quivr-Minz.gitgit push -u origin main
+=======
+"# Quivr-Minz"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Shafiq-GH/Quivr-Minz.gitgit push -u origin main
+>>>>>>> 09c8344b412cedc1144f797ec8e5f7144e395305
